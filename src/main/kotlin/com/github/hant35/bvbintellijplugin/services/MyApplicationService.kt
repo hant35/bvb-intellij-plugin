@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hant35.bvbintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hant35.bvbintellijplugin.MyBundle
 
 class MyApplicationService {
 
